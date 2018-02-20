@@ -1,5 +1,8 @@
 # EBK-Statuswatcher
 
+![Bild](Statuswatcher.gif "Statuswatcher.gif")
+
+
 # Serial output
 \##### connecting to 
 
