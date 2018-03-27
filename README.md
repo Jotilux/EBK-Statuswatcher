@@ -2,6 +2,10 @@
 
 ![Bild](Statuswatcher.gif "Statuswatcher.gif")
 
+# Configuration
+config wlan ssid and password.
+save that config.h.example as config.h
+
 
 # Serial output
 \##### connecting to 

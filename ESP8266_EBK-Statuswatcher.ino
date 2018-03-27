@@ -6,9 +6,8 @@
 #include "OLEDDisplayUi.h"
 // Include custom images
 #include "images.h"
+#include "config.h"
 
-const char* ssid     = "SSID";
-const char* password = "PASSWORD";
 const char* host = "eigenbaukombinat.de";
 const int httpsPort = 443;
 const char* fingerprint = "55:D1:F2:9F:C7:4A:27:6A:31:50:12:0C:D7:6D:36:57:1E:CF:0E:6F"; // SHA1 fingerprint of the certificate
