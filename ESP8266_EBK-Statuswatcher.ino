@@ -10,7 +10,7 @@
 
 const char* host = "eigenbaukombinat.de";
 const int httpsPort = 443;
-const char* fingerprint = "55:D1:F2:9F:C7:4A:27:6A:31:50:12:0C:D7:6D:36:57:1E:CF:0E:6F"; // SHA1 fingerprint of the certificate
+const char* fingerprint = "EC:E2:82:C6:50:9D:B1:99:CE:33:0D:B4:5B:BC:02:AB:D7:A1:0C:62"; // SHA1 fingerprint of the certificate
 String status;
 String Termin;
 String TerminMorgen;
@@ -293,7 +293,7 @@ void loop() {
         MonatNr = 3;
       } else if (Monat == "Apr"){
         MonatNr = 4;
-      } else if (Monat == "Mai"){
+      } else if (Monat == "May"){
         MonatNr = 5;
       } else if (Monat == "Jun"){
         MonatNr = 6;
