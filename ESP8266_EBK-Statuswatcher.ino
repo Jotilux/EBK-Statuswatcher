@@ -10,7 +10,7 @@
 
 const char* host = "eigenbaukombinat.de";
 const int httpsPort = 443;
-const char* fingerprint = "EC:E2:82:C6:50:9D:B1:99:CE:33:0D:B4:5B:BC:02:AB:D7:A1:0C:62"; // SHA1 fingerprint of the certificate
+const char* fingerprint = "94:B3:D5:29:A8:8B:05:60:2C:A1:0D:A8:BA:90:04:00:9E:81:A6:F4"; // SHA1 fingerprint of the certificate
 String status;
 String Termin;
 String TerminMorgen;
